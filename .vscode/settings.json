@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1A3410",
+    "titleBar.activeBackground": "#244916",
+    "titleBar.activeForeground": "#F7FCF5"
+  },
+  "go.inferGopath": false
+}
